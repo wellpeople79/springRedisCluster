@@ -9,6 +9,8 @@
 .project
 .settings
 .springBeans
+application.properties
+application.yml
 
 
 # Compiled class file
